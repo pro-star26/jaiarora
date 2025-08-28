@@ -275,7 +275,7 @@ section {
 
 .about-details-container {
   justify-content: center;
-  flex-direction: column;
+  flex-direction: flex;
 }
 
 .about-containers,
